@@ -52,7 +52,7 @@ uvicorn main:app --reload
 
 
 Open your browser and go to:
-👉 http://127.0.0.1:8000
+👉 https://web-production-09640.up.railway.app/docs
 
 🧪 Running Tests
 
